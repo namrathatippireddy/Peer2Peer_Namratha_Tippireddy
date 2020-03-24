@@ -1,1 +1,0 @@
-TwitterSimulator.main()
